@@ -165,6 +165,10 @@ a {
   font-size: 3rem;
 }
 
+.booking a {
+  color: #a45d5d;
+}
+
 .cancel {
   display: grid;
   grid-template-columns: 1fr 1.5fr;
